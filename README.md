@@ -6,7 +6,7 @@ This code is intended for research use, it is not production ready code, it cont
 ## Download and install Julia
 To run this code, you must install Julia. Instructions can be found at: https://julialang.org/
 
-After installing Julia, you must install the necessary packages, you will be prompted to add them if you run the command: include("paaramest.jl")
+After installing Julia, you must install the necessary packages, you will be prompted to add them if you run the command: include("paramest.jl")
 
 For reference, the following packages are used: MAT, Sundials, DelimitedFiles.
 
